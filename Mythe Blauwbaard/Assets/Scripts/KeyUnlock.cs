@@ -1,14 +1,11 @@
 ﻿using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class KeyUnlock : MonoBehaviour
 {
     private bool _doneRotating = false;
-    private bool _unlocking = false;
+    private bool _unlocking;
     private Rigidbody _rb;
-    private int _i;
-
 
     private void Awake()
     {
@@ -30,10 +27,11 @@ public class KeyUnlock : MonoBehaviour
     {
         while (true)
         {
-            for (_i = 0; _i < 36; _i++)
+            int i;
+            for (i = 0; i < 54; i++)
             {
-                transform.Rotate(5, 0, 0);
-                yield return new WaitForSeconds(0.15f);
+                transform.Rotate(2.5f, 0, 0);
+                yield return new WaitForSeconds(0.05f);
             }
             Destroy(gameObject);
         }
