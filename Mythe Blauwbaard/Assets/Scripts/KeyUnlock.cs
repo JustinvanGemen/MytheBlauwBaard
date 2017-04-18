@@ -1,9 +1,9 @@
 ﻿using System.Collections;
 using UnityEngine;
+using Valve.VR.InteractionSystem;
 
 public class KeyUnlock : MonoBehaviour
 {
-    private bool _doneRotating = false;
     private bool _unlocking;
     private Rigidbody _rb;
 
@@ -18,6 +18,12 @@ public class KeyUnlock : MonoBehaviour
         {
             return;
         }
+        Destroy(GetComponent<Throwable>());
+        Destroy(GetComponent<InteractableHoverEvents>());
+        Destroy(GetComponent<VelocityEstimator>());
+        Destroy(GetComponent<Interactable>());
+        transform.parent = null;
+        transform.position = new Vector3(6.36f,1.02f,-4.48f);
         _rb.constraints = RigidbodyConstraints.FreezePositionX | RigidbodyConstraints.FreezePositionY | RigidbodyConstraints.FreezePositionZ | RigidbodyConstraints.FreezeRotationY | RigidbodyConstraints.FreezeRotationZ;
         _unlocking = true;
         StartCoroutine(Rotations());
