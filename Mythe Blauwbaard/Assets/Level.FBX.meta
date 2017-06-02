@@ -1,0 +1,993 @@
+fileFormatVersion: 2
+guid: 882417307c6ad824ea96dc7c189dfe91
+timeCreated: 1496312352
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Aanrecht
+    100002: Balk_1
+    100004: Balk_2
+    100006: Balk_Midden
+    100008: ball_room
+    100010: Base004
+    100012: Base005
+    100014: Base007
+    100016: Base008
+    100018: Base009
+    100020: Base010
+    100022: Binnenkant 007
+    100024: Binnenkant 008
+    100026: Binnenkant 009
+    100028: Binnenkant lade002
+    100030: Bord
+    100032: Bord001
+    100034: Bord002
+    100036: Bord003
+    100038: Bord004
+    100040: Bord005
+    100042: Box001
+    100044: Box009
+    100046: Box010
+    100048: Box011
+    100050: Box012
+    100052: Box013
+    100054: Box014
+    100056: Box015
+    100058: Box016
+    100060: common_dining_room1
+    100062: Cylinder001
+    100064: Cylinder002
+    100066: Cylinder003
+    100068: Cylinder004
+    100070: Cylinder005
+    100072: Cylinder005 1
+    100074: Cylinder006
+    100076: Cylinder007
+    100078: Cylinder008
+    100080: Cylinder009
+    100082: Cylinder011
+    100084: Cylinder012
+    100086: Cylinder013
+    100088: Cylinder014
+    100090: Cylinder015
+    100092: Cylinder016
+    100094: Cylinder017
+    100096: Cylinder018
+    100098: Cylinder019
+    100100: deksel
+    100102: deksel001
+    100104: Deksel_hendel
+    100106: Deksel_hendel001
+    100108: Deuren kleine kast001
+    100110: Deuren met deurknop
+    100112: dining_room1
+    100114: doors
+    100116: double_door005
+    100118: double_doors
+    100120: entrance3
+    100122: floor
+    100124: great_hall1
+    100126: group
+    100128: Group005
+    100130: Group006
+    100132: Group012
+    100134: Group013
+    100136: Group014
+    100138: Group015
+    100140: Group016
+    100142: Group017
+    100144: Group018
+    100146: Group019
+    100148: Group020
+    100150: Group021
+    100152: Group022
+    100154: group1
+    100156: Hendel_1
+    100158: hendel_2
+    100160: hendel_3
+    100162: Ketel
+    100164: Ketel001
+    100166: Kraan
+    100168: lade kast002
+    100170: //RootNode
+    100172: lil_hall
+    100174: Line001
+    100176: Line002
+    100178: Line003
+    100180: Line004
+    100182: Line005
+    100184: Line006
+    100186: Line007
+    100188: Line008
+    100190: model_size:Group1
+    100192: Object001
+    100194: Object001 1
+    100196: Object002
+    100198: Object002 1
+    100200: Object002 2
+    100202: Object003
+    100204: Object003 1
+    100206: Object003 2
+    100208: Object004
+    100210: Object004 1
+    100212: Object005
+    100214: Object005 1
+    100216: Object006
+    100218: Object007
+    100220: Object008
+    100222: Object009
+    100224: Object009 1
+    100226: Object010
+    100228: Object011
+    100230: Object013
+    100232: Object015
+    100234: Object016
+    100236: Object017
+    100238: Object018
+    100240: Object019
+    100242: Object020
+    100244: Object021
+    100246: Object022
+    100248: Object023
+    100250: Object024
+    100252: Object025
+    100254: Object026
+    100256: Object027
+    100258: Object028
+    100260: Object029
+    100262: Object030
+    100264: Object031
+    100266: Object032
+    100268: Object033
+    100270: Onderkant kast006
+    100272: Onderkant kast007
+    100274: Onderkant kast008
+    100276: parlour1
+    100278: pCube002
+    100280: pCube002 1
+    100282: pCube003
+    100284: pCube004
+    100286: pCube005
+    100288: pCube006
+    100290: pCube007
+    100292: pCube008
+    100294: pCube009
+    100296: pCube010
+    100298: pCube011
+    100300: pCube012
+    100302: pCube1
+    100304: pCube2
+    100306: Plane001
+    100308: Plane002
+    100310: Plane002 1
+    100312: Plane003
+    100314: Plane004
+    100316: Plane005
+    100318: Plane006
+    100320: Plane007
+    100322: Plane008
+    100324: Plane009
+    100326: Poot_1
+    100328: Poot_2
+    100330: Poot_3
+    100332: Poot_4
+    100334: Poten006
+    100336: Poten007
+    100338: Poten009
+    100340: Poten010
+    100342: Poten011
+    100344: Poten012
+    100346: pPlane9
+    100348: Rug leuning008
+    100350: Rug leuning009
+    100352: Rug leuning010
+    100354: Rug leuning011
+    100356: Rug leuning014
+    100358: Rug leuning015
+    100360: Rug leuning016
+    100362: Rug leuning017
+    100364: Rug leuning018
+    100366: Rug leuning019
+    100368: Rug leuning020
+    100370: Rug leuning021
+    100372: rugleuning005
+    100374: rugleuning006
+    100376: rugleuning040
+    100378: rugleuning041
+    100380: rugleuning042
+    100382: rugleuning043
+    100384: Table_1
+    100386: Zit kussen004
+    100388: Zit kussen005
+    100390: Zit kussen007
+    100392: Zit kussen008
+    100394: Zit kussen009
+    100396: Zit kussen010
+    400000: Aanrecht
+    400002: Balk_1
+    400004: Balk_2
+    400006: Balk_Midden
+    400008: ball_room
+    400010: Base004
+    400012: Base005
+    400014: Base007
+    400016: Base008
+    400018: Base009
+    400020: Base010
+    400022: Binnenkant 007
+    400024: Binnenkant 008
+    400026: Binnenkant 009
+    400028: Binnenkant lade002
+    400030: Bord
+    400032: Bord001
+    400034: Bord002
+    400036: Bord003
+    400038: Bord004
+    400040: Bord005
+    400042: Box001
+    400044: Box009
+    400046: Box010
+    400048: Box011
+    400050: Box012
+    400052: Box013
+    400054: Box014
+    400056: Box015
+    400058: Box016
+    400060: common_dining_room1
+    400062: Cylinder001
+    400064: Cylinder002
+    400066: Cylinder003
+    400068: Cylinder004
+    400070: Cylinder005
+    400072: Cylinder005 1
+    400074: Cylinder006
+    400076: Cylinder007
+    400078: Cylinder008
+    400080: Cylinder009
+    400082: Cylinder011
+    400084: Cylinder012
+    400086: Cylinder013
+    400088: Cylinder014
+    400090: Cylinder015
+    400092: Cylinder016
+    400094: Cylinder017
+    400096: Cylinder018
+    400098: Cylinder019
+    400100: deksel
+    400102: deksel001
+    400104: Deksel_hendel
+    400106: Deksel_hendel001
+    400108: Deuren kleine kast001
+    400110: Deuren met deurknop
+    400112: dining_room1
+    400114: doors
+    400116: double_door005
+    400118: double_doors
+    400120: entrance3
+    400122: floor
+    400124: great_hall1
+    400126: group
+    400128: Group005
+    400130: Group006
+    400132: Group012
+    400134: Group013
+    400136: Group014
+    400138: Group015
+    400140: Group016
+    400142: Group017
+    400144: Group018
+    400146: Group019
+    400148: Group020
+    400150: Group021
+    400152: Group022
+    400154: group1
+    400156: Hendel_1
+    400158: hendel_2
+    400160: hendel_3
+    400162: Ketel
+    400164: Ketel001
+    400166: Kraan
+    400168: lade kast002
+    400170: //RootNode
+    400172: lil_hall
+    400174: Line001
+    400176: Line002
+    400178: Line003
+    400180: Line004
+    400182: Line005
+    400184: Line006
+    400186: Line007
+    400188: Line008
+    400190: model_size:Group1
+    400192: Object001
+    400194: Object001 1
+    400196: Object002
+    400198: Object002 1
+    400200: Object002 2
+    400202: Object003
+    400204: Object003 1
+    400206: Object003 2
+    400208: Object004
+    400210: Object004 1
+    400212: Object005
+    400214: Object005 1
+    400216: Object006
+    400218: Object007
+    400220: Object008
+    400222: Object009
+    400224: Object009 1
+    400226: Object010
+    400228: Object011
+    400230: Object013
+    400232: Object015
+    400234: Object016
+    400236: Object017
+    400238: Object018
+    400240: Object019
+    400242: Object020
+    400244: Object021
+    400246: Object022
+    400248: Object023
+    400250: Object024
+    400252: Object025
+    400254: Object026
+    400256: Object027
+    400258: Object028
+    400260: Object029
+    400262: Object030
+    400264: Object031
+    400266: Object032
+    400268: Object033
+    400270: Onderkant kast006
+    400272: Onderkant kast007
+    400274: Onderkant kast008
+    400276: parlour1
+    400278: pCube002
+    400280: pCube002 1
+    400282: pCube003
+    400284: pCube004
+    400286: pCube005
+    400288: pCube006
+    400290: pCube007
+    400292: pCube008
+    400294: pCube009
+    400296: pCube010
+    400298: pCube011
+    400300: pCube012
+    400302: pCube1
+    400304: pCube2
+    400306: Plane001
+    400308: Plane002
+    400310: Plane002 1
+    400312: Plane003
+    400314: Plane004
+    400316: Plane005
+    400318: Plane006
+    400320: Plane007
+    400322: Plane008
+    400324: Plane009
+    400326: Poot_1
+    400328: Poot_2
+    400330: Poot_3
+    400332: Poot_4
+    400334: Poten006
+    400336: Poten007
+    400338: Poten009
+    400340: Poten010
+    400342: Poten011
+    400344: Poten012
+    400346: pPlane9
+    400348: Rug leuning008
+    400350: Rug leuning009
+    400352: Rug leuning010
+    400354: Rug leuning011
+    400356: Rug leuning014
+    400358: Rug leuning015
+    400360: Rug leuning016
+    400362: Rug leuning017
+    400364: Rug leuning018
+    400366: Rug leuning019
+    400368: Rug leuning020
+    400370: Rug leuning021
+    400372: rugleuning005
+    400374: rugleuning006
+    400376: rugleuning040
+    400378: rugleuning041
+    400380: rugleuning042
+    400382: rugleuning043
+    400384: Table_1
+    400386: Zit kussen004
+    400388: Zit kussen005
+    400390: Zit kussen007
+    400392: Zit kussen008
+    400394: Zit kussen009
+    400396: Zit kussen010
+    2300000: Aanrecht
+    2300002: Balk_1
+    2300004: Balk_2
+    2300006: Balk_Midden
+    2300008: Base004
+    2300010: Base005
+    2300012: Base007
+    2300014: Base008
+    2300016: Base009
+    2300018: Base010
+    2300020: Binnenkant 007
+    2300022: Binnenkant 008
+    2300024: Binnenkant 009
+    2300026: Binnenkant lade002
+    2300028: Bord
+    2300030: Bord001
+    2300032: Bord002
+    2300034: Bord003
+    2300036: Bord004
+    2300038: Bord005
+    2300040: Box001
+    2300042: Box009
+    2300044: Box010
+    2300046: Box011
+    2300048: Box012
+    2300050: Box013
+    2300052: Box014
+    2300054: Box015
+    2300056: Box016
+    2300058: Cylinder001
+    2300060: Cylinder002
+    2300062: Cylinder003
+    2300064: Cylinder004
+    2300066: Cylinder005
+    2300068: Cylinder005 1
+    2300070: Cylinder006
+    2300072: Cylinder007
+    2300074: Cylinder008
+    2300076: Cylinder009
+    2300078: Cylinder011
+    2300080: Cylinder012
+    2300082: Cylinder013
+    2300084: Cylinder014
+    2300086: Cylinder015
+    2300088: Cylinder016
+    2300090: Cylinder017
+    2300092: Cylinder018
+    2300094: Cylinder019
+    2300096: deksel
+    2300098: deksel001
+    2300100: Deksel_hendel
+    2300102: Deksel_hendel001
+    2300104: Deuren kleine kast001
+    2300106: Deuren met deurknop
+    2300108: double_door005
+    2300110: Hendel_1
+    2300112: hendel_2
+    2300114: hendel_3
+    2300116: Ketel
+    2300118: Ketel001
+    2300120: lade kast002
+    2300122: Line001
+    2300124: Line002
+    2300126: Line003
+    2300128: Line004
+    2300130: Line005
+    2300132: Line006
+    2300134: Line007
+    2300136: Line008
+    2300138: model_size:Group1
+    2300140: Object001
+    2300142: Object001 1
+    2300144: Object002
+    2300146: Object002 1
+    2300148: Object002 2
+    2300150: Object003
+    2300152: Object003 1
+    2300154: Object003 2
+    2300156: Object004
+    2300158: Object004 1
+    2300160: Object005
+    2300162: Object005 1
+    2300164: Object006
+    2300166: Object007
+    2300168: Object008
+    2300170: Object009
+    2300172: Object009 1
+    2300174: Object010
+    2300176: Object011
+    2300178: Object013
+    2300180: Object015
+    2300182: Object016
+    2300184: Object017
+    2300186: Object018
+    2300188: Object019
+    2300190: Object020
+    2300192: Object021
+    2300194: Object022
+    2300196: Object023
+    2300198: Object024
+    2300200: Object025
+    2300202: Object026
+    2300204: Object027
+    2300206: Object028
+    2300208: Object029
+    2300210: Object030
+    2300212: Object031
+    2300214: Object032
+    2300216: Object033
+    2300218: Onderkant kast006
+    2300220: Onderkant kast007
+    2300222: Onderkant kast008
+    2300224: pCube002
+    2300226: pCube002 1
+    2300228: pCube003
+    2300230: pCube004
+    2300232: pCube005
+    2300234: pCube006
+    2300236: pCube007
+    2300238: pCube008
+    2300240: pCube009
+    2300242: pCube010
+    2300244: pCube011
+    2300246: pCube012
+    2300248: pCube1
+    2300250: pCube2
+    2300252: Plane001
+    2300254: Plane002
+    2300256: Plane002 1
+    2300258: Plane003
+    2300260: Plane004
+    2300262: Plane005
+    2300264: Plane006
+    2300266: Plane007
+    2300268: Plane008
+    2300270: Plane009
+    2300272: Poot_1
+    2300274: Poot_2
+    2300276: Poot_3
+    2300278: Poot_4
+    2300280: Poten006
+    2300282: Poten007
+    2300284: Poten009
+    2300286: Poten010
+    2300288: Poten011
+    2300290: Poten012
+    2300292: pPlane9
+    2300294: Rug leuning008
+    2300296: Rug leuning009
+    2300298: Rug leuning010
+    2300300: Rug leuning011
+    2300302: Rug leuning014
+    2300304: Rug leuning015
+    2300306: Rug leuning016
+    2300308: Rug leuning017
+    2300310: Rug leuning018
+    2300312: Rug leuning019
+    2300314: Rug leuning020
+    2300316: Rug leuning021
+    2300318: rugleuning005
+    2300320: rugleuning006
+    2300322: rugleuning040
+    2300324: rugleuning041
+    2300326: rugleuning042
+    2300328: rugleuning043
+    2300330: Table_1
+    2300332: Zit kussen004
+    2300334: Zit kussen005
+    2300336: Zit kussen007
+    2300338: Zit kussen008
+    2300340: Zit kussen009
+    2300342: Zit kussen010
+    3300000: Aanrecht
+    3300002: Balk_1
+    3300004: Balk_2
+    3300006: Balk_Midden
+    3300008: Base004
+    3300010: Base005
+    3300012: Base007
+    3300014: Base008
+    3300016: Base009
+    3300018: Base010
+    3300020: Binnenkant 007
+    3300022: Binnenkant 008
+    3300024: Binnenkant 009
+    3300026: Binnenkant lade002
+    3300028: Bord
+    3300030: Bord001
+    3300032: Bord002
+    3300034: Bord003
+    3300036: Bord004
+    3300038: Bord005
+    3300040: Box001
+    3300042: Box009
+    3300044: Box010
+    3300046: Box011
+    3300048: Box012
+    3300050: Box013
+    3300052: Box014
+    3300054: Box015
+    3300056: Box016
+    3300058: Cylinder001
+    3300060: Cylinder002
+    3300062: Cylinder003
+    3300064: Cylinder004
+    3300066: Cylinder005
+    3300068: Cylinder005 1
+    3300070: Cylinder006
+    3300072: Cylinder007
+    3300074: Cylinder008
+    3300076: Cylinder009
+    3300078: Cylinder011
+    3300080: Cylinder012
+    3300082: Cylinder013
+    3300084: Cylinder014
+    3300086: Cylinder015
+    3300088: Cylinder016
+    3300090: Cylinder017
+    3300092: Cylinder018
+    3300094: Cylinder019
+    3300096: deksel
+    3300098: deksel001
+    3300100: Deksel_hendel
+    3300102: Deksel_hendel001
+    3300104: Deuren kleine kast001
+    3300106: Deuren met deurknop
+    3300108: double_door005
+    3300110: Hendel_1
+    3300112: hendel_2
+    3300114: hendel_3
+    3300116: Ketel
+    3300118: Ketel001
+    3300120: lade kast002
+    3300122: Line001
+    3300124: Line002
+    3300126: Line003
+    3300128: Line004
+    3300130: Line005
+    3300132: Line006
+    3300134: Line007
+    3300136: Line008
+    3300138: model_size:Group1
+    3300140: Object001
+    3300142: Object001 1
+    3300144: Object002
+    3300146: Object002 1
+    3300148: Object002 2
+    3300150: Object003
+    3300152: Object003 1
+    3300154: Object003 2
+    3300156: Object004
+    3300158: Object004 1
+    3300160: Object005
+    3300162: Object005 1
+    3300164: Object006
+    3300166: Object007
+    3300168: Object008
+    3300170: Object009
+    3300172: Object009 1
+    3300174: Object010
+    3300176: Object011
+    3300178: Object013
+    3300180: Object015
+    3300182: Object016
+    3300184: Object017
+    3300186: Object018
+    3300188: Object019
+    3300190: Object020
+    3300192: Object021
+    3300194: Object022
+    3300196: Object023
+    3300198: Object024
+    3300200: Object025
+    3300202: Object026
+    3300204: Object027
+    3300206: Object028
+    3300208: Object029
+    3300210: Object030
+    3300212: Object031
+    3300214: Object032
+    3300216: Object033
+    3300218: Onderkant kast006
+    3300220: Onderkant kast007
+    3300222: Onderkant kast008
+    3300224: pCube002
+    3300226: pCube002 1
+    3300228: pCube003
+    3300230: pCube004
+    3300232: pCube005
+    3300234: pCube006
+    3300236: pCube007
+    3300238: pCube008
+    3300240: pCube009
+    3300242: pCube010
+    3300244: pCube011
+    3300246: pCube012
+    3300248: pCube1
+    3300250: pCube2
+    3300252: Plane001
+    3300254: Plane002
+    3300256: Plane002 1
+    3300258: Plane003
+    3300260: Plane004
+    3300262: Plane005
+    3300264: Plane006
+    3300266: Plane007
+    3300268: Plane008
+    3300270: Plane009
+    3300272: Poot_1
+    3300274: Poot_2
+    3300276: Poot_3
+    3300278: Poot_4
+    3300280: Poten006
+    3300282: Poten007
+    3300284: Poten009
+    3300286: Poten010
+    3300288: Poten011
+    3300290: Poten012
+    3300292: pPlane9
+    3300294: Rug leuning008
+    3300296: Rug leuning009
+    3300298: Rug leuning010
+    3300300: Rug leuning011
+    3300302: Rug leuning014
+    3300304: Rug leuning015
+    3300306: Rug leuning016
+    3300308: Rug leuning017
+    3300310: Rug leuning018
+    3300312: Rug leuning019
+    3300314: Rug leuning020
+    3300316: Rug leuning021
+    3300318: rugleuning005
+    3300320: rugleuning006
+    3300322: rugleuning040
+    3300324: rugleuning041
+    3300326: rugleuning042
+    3300328: rugleuning043
+    3300330: Table_1
+    3300332: Zit kussen004
+    3300334: Zit kussen005
+    3300336: Zit kussen007
+    3300338: Zit kussen008
+    3300340: Zit kussen009
+    3300342: Zit kussen010
+    4300000: pCube1
+    4300002: pCube002
+    4300004: pCube003
+    4300006: pCube004
+    4300008: pCube005
+    4300010: pCube006
+    4300012: pCube007
+    4300014: pCube008
+    4300016: pCube009
+    4300018: pCube010
+    4300020: pCube002
+    4300022: pCube2
+    4300024: Cylinder005
+    4300026: Cylinder011
+    4300028: Object001
+    4300030: Object002
+    4300032: Object003
+    4300034: Cylinder012
+    4300036: Object004
+    4300038: Object005
+    4300040: Cylinder013
+    4300042: Cylinder014
+    4300044: Plane002
+    4300046: pPlane9
+    4300048: double_door005
+    4300050: model_size:Group1
+    4300052: Aanrecht
+    4300054: Ketel
+    4300056: hendel_3
+    4300058: hendel_2
+    4300060: Hendel_1
+    4300062: Deksel_hendel
+    4300064: deksel
+    4300066: Table_1
+    4300068: Balk_1
+    4300070: Balk_2
+    4300072: Poot_4
+    4300074: Poot_3
+    4300076: Poot_2
+    4300078: Poot_1
+    4300080: Balk_Midden
+    4300082: Base004
+    4300084: Object010
+    4300086: Poten006
+    4300088: Rug leuning008
+    4300090: Rug leuning009
+    4300092: Zit kussen004
+    4300094: rugleuning005
+    4300096: Base005
+    4300098: Object011
+    4300100: Poten007
+    4300102: Rug leuning010
+    4300104: Rug leuning011
+    4300106: Zit kussen005
+    4300108: rugleuning006
+    4300110: Deuren met deurknop
+    4300112: Object009
+    4300114: Deuren kleine kast001
+    4300116: Binnenkant 007
+    4300118: Onderkant kast006
+    4300120: lade kast002
+    4300122: Object009
+    4300124: Binnenkant 008
+    4300126: Box009
+    4300128: Box010
+    4300130: Onderkant kast007
+    4300132: Onderkant kast008
+    4300134: Binnenkant lade002
+    4300136: Base007
+    4300138: Object013
+    4300140: Poten009
+    4300142: Rug leuning014
+    4300144: Rug leuning015
+    4300146: Zit kussen007
+    4300148: rugleuning040
+    4300150: Base008
+    4300152: Object015
+    4300154: Poten010
+    4300156: Rug leuning016
+    4300158: Rug leuning017
+    4300160: Zit kussen008
+    4300162: rugleuning041
+    4300164: Base009
+    4300166: Object016
+    4300168: Poten011
+    4300170: Rug leuning018
+    4300172: Rug leuning019
+    4300174: Zit kussen009
+    4300176: rugleuning042
+    4300178: Base010
+    4300180: Object017
+    4300182: Poten012
+    4300184: Rug leuning020
+    4300186: Rug leuning021
+    4300188: Zit kussen010
+    4300190: rugleuning043
+    4300192: Binnenkant 009
+    4300194: Box011
+    4300196: Object018
+    4300198: Cylinder001
+    4300200: Line001
+    4300202: Cylinder002
+    4300204: Object001
+    4300206: Object002
+    4300208: Cylinder003
+    4300210: Line002
+    4300212: Cylinder004
+    4300214: Object003
+    4300216: Line003
+    4300218: Object004
+    4300220: Cylinder005
+    4300222: Line004
+    4300224: Cylinder006
+    4300226: Object005
+    4300228: Line005
+    4300230: Object006
+    4300232: Cylinder007
+    4300234: Line006
+    4300236: Cylinder008
+    4300238: Object007
+    4300240: Line007
+    4300242: Object008
+    4300244: Cylinder009
+    4300246: Line008
+    4300248: Plane001
+    4300250: Plane002
+    4300252: Plane003
+    4300254: Plane004
+    4300256: Plane005
+    4300258: Plane006
+    4300260: Plane007
+    4300262: Plane008
+    4300264: Bord
+    4300266: Object002
+    4300268: Box001
+    4300270: Object003
+    4300272: Bord001
+    4300274: Box012
+    4300276: Object019
+    4300278: Object020
+    4300280: Bord002
+    4300282: Box013
+    4300284: Object021
+    4300286: Object022
+    4300288: Bord003
+    4300290: Box014
+    4300292: Object023
+    4300294: Object024
+    4300296: Bord004
+    4300298: Box015
+    4300300: Object025
+    4300302: Object026
+    4300304: Bord005
+    4300306: Box016
+    4300308: Object027
+    4300310: Object028
+    4300312: Cylinder015
+    4300314: Cylinder016
+    4300316: Cylinder017
+    4300318: Cylinder018
+    4300320: Cylinder019
+    4300322: Object029
+    4300324: Object030
+    4300326: Object031
+    4300328: Object032
+    4300330: Object033
+    4300332: Plane009
+    4300334: Deksel_hendel001
+    4300336: Ketel001
+    4300338: deksel001
+    4300340: pCube011
+    4300342: pCube012
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
